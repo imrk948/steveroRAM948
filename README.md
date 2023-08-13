@@ -1,12 +1,3 @@
-### Hey I am Ram 👋
-
-
-- 🔭 I’m currently working on Minecraft Developing And Lua Scripting
-- 🌱 I’m currently learning Lua And Java
-- 👯 I’m looking to collaborate on Minecraft Servers and Hosting Services 
-- 🤔 I’m looking for help with Java
-- 💬 Ask me about Foods and Games I love to talk that 
-- 📫 How to reach me: Mail Me on ramkiranmohan1759@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I like To Eat food all time 
+Hello There!
+I'm a multi-faceted individual with a diverse range of knowledge and interests. At heart, I am a Web Developer, using my technical expertise to craft stunning websites and web applications. Beyond web development, I have a passion for gaming, particularly Minecraft. As a Minecraft Server Developer, Building and maintaining servers that bring joy to the gaming community is incredibly rewarding. As a Business Consultant, I thrive on solving complex problems from my experience in the Gaming industry, I offer recommendations to businesses seeking growth and optimization. Event management is another area where I excel. As an Event Manager, I bring creativity, organization, and attention to detail to the table. Being an Entrepreneur runs in my blood. I possess a Interest that drives me to identify unique business ideas and turn them into reality. I'm constantly seeking opportunities to create products or services. Lastly, I'm a passionate Writer. Crafting engaging narratives, writing allows me to share my ideas with the world and connect with diverse audiences. When not immersed in work, you can find me exploring researching, indulging in a good book, or spending time playing games.
 
